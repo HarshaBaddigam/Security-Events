@@ -1,13 +1,13 @@
 # Security-Events
-Some of the past Security Events that I have covered, mostly Social Engineering.
+Some of the past Security Events that I've covered, mostly Social Engineering.
 
-<a href="https://google.com">Malicious Use of Google AdSense</a>
+<a href="https://github.com/HarshaBaddigam/Security-Events/blob/main/MaliciousUseofGoogleAdSense.md">Malicious Use of Google AdSense</a>
 
-<a href="https://google.com">CryptoRom: New form of Financial Fraud</a>
+<a href="https://github.com/HarshaBaddigam/Security-Events/blob/main/CryptoRom%3ANewformofFinancialFraud.md">Human Trafficking in Cybercrime: Unveiling the Dark Reality Behind 'CryptoRom' Scams</a>
 
-<a href="https://google.com">Police Swatting your house?</a>
+<a href="https://github.com/HarshaBaddigam/Security-Events/blob/main/DataBreachNightmare%3ATheHarrowingRealityBehindthePoliceRaidonYourHome.md">Data Breach Nightmare: The Harrowing Reality Behind the Police Raid on Your Home</a>
 
-<a href="https://google.com">Data Breach, that’s not an actual data breach?</a>
+<a href="https://google.com">PayPal Breach: Unveiling the Threat of Credential Stuffing Attacks and the Imperative for Enhanced Security Measures</a>
 
 <a href="https://google.com">Malicious Actors taking advantage of a trend? ChatGPT</a>
 
