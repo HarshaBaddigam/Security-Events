@@ -9,7 +9,7 @@ Some of the past Security Events that I've covered, mostly Social Engineering.
 
 <a href="https://github.com/HarshaBaddigam/Security-Events/blob/main/PayPal%20Breach%3A%20Unveiling%20the%20Threat%20of%20Credential%20Stuffing%20Attacks%20and%20the%20Imperative%20for%20Enhanced%20Security%20Measures.md">PayPal Breach: Unveiling the Threat of Credential Stuffing Attacks and the Imperative for Enhanced Security Measures</a>
 
-<a href="https://google.com">Malicious Actors taking advantage of a trend? ChatGPT</a>
+<a href="https://github.com/HarshaBaddigam/Security-Events/blob/main/Rising%20Threats%3A%20Phishing%20Campaigns%20Exploit%20ChatGPT's%20Popularity%20for%20Malicious%20Intent.md">Rising Threats: Phishing Campaigns Exploit ChatGPT's Popularity for Malicious Intent</a>
 
 <a href="https://google.com">Loyalty points: A Boon or A Bane to the sales sector?</a>
 
