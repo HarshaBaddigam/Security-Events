@@ -1,7 +1,7 @@
 # Security-Events
 Some of the past Security Events that I've covered, mostly Social Engineering.
 
-<a href="https://github.com/HarshaBaddigam/Security-Events/blob/main/MaliciousUseofGoogleAdSense.md">Malicious Use of Google AdSense</a>
+<a href="https://github.com/HarshaBaddigam/Security-Events/blob/main/Unveiling%20the%20Threat%20of%20Malicious%20Google%20AdSense%20Ads:%20Protecting%20Users%20from%20IDN%20Homograph%20Attacks%20and%20Trojan%20Applications.md">Unveiling the Threat of Malicious Google AdSense Ads: Protecting Users from IDN Homograph Attacks and Trojan Applications</a>
 
 <a href="https://github.com/HarshaBaddigam/Security-Events/blob/main/HumanTraffickinginCybercrime%3AUnveilingtheDarkRealityBehind'CryptoRom'Scams.md">Human Trafficking in Cybercrime: Unveiling the Dark Reality Behind 'CryptoRom' Scams</a>
 
